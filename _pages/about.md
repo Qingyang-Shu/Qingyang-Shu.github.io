@@ -21,7 +21,7 @@ My research interests focus on **machine learning** and **data mining**, aiming 
 - 2025.11: 🎉🎉 One paper has been accepted at *KDD 2026*.
 
 ## 📝 Publications {#publications}
-{% include archive.html collection='publications' %}
+{% include archive.html collection='publications' show_title=false %}
 
 ## 🔍 Manuscript under review {#manuscripts}
 - **Qingyang Shu**, Jianmei Ren, Mingchang Cheng \*, Tiefeng Ma. Structure-Guided Incomplete Multi-View Clustering with Independent Subspace Completion. *IEEE Transactions on Image Processing*, 2026. (Under Review)
