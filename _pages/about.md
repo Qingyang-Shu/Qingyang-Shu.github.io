@@ -21,8 +21,7 @@ My research interests focus on **machine learning** and **data mining**, aiming 
 - 2025.11: 🎉🎉 One paper has been accepted at *KDD 2026*.
 
 ## 📝 Publications {#publications}
-- **Qingyang Shu**, Mingchang Cheng \*, Jianmei Ren, Tiefeng Ma, Aihua Han. Step-wise Incomplete Multi-view Clustering through Joint Utilization of Structure and Completion Graphs. *Information Fusion*, 2026.
-- Tingjin Luo \*, Mengyuan Tong, **Qingyang Shu**, Yueying Liu, Hao Zhou, Zhen Wang. Class: Deep Partial Label Feature Selection with Cluster-guided Disambiguation and Structured Sparsity. *KDD'26*, 2026.
+{% include archive.html collection='publications' %}
 
 ## 🔍 Manuscript under review {#manuscripts}
 - **Qingyang Shu**, Jianmei Ren, Mingchang Cheng \*, Tiefeng Ma. Structure-Guided Incomplete Multi-View Clustering with Independent Subspace Completion. *IEEE Transactions on Image Processing*, 2026. (Under Review)
