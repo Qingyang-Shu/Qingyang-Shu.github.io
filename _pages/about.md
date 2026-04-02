@@ -24,10 +24,10 @@ My research interests focus on **machine learning** and **data mining**, aiming 
 {% include archive.html collection='publications' show_title=false %}
 
 ## 🔍 Manuscript under review {#manuscripts}
-- **Qingyang Shu**, Jianmei Ren, Mingchang Cheng \*, Tiefeng Ma. Structure-Guided Incomplete Multi-View Clustering with Independent Subspace Completion. *IEEE Transactions on Image Processing*, 2026. (Under Review)
-- **Qingyang Shu**, Jianmei Ren, Mingchang Cheng \*, Tiefeng Ma. Multi-view Positive–Unlabeled Learning with Semi-Supervised Clustering and Label Disambiguation. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026. (Under Review)
-- Yao Dong, **Qingyang Shu** \*, Mengyuan Tong. A Short-term Probabilistic Wind Power Forecasting Integrating Deep Reinforcement Learning and Multi-objective Bayesian Optimization. *International Journal of Electrical Power and Energy Systems*, 2026. (Under Review)
-- Jianmei Ren, Aihua Han \*, **Qingyang Shu**, Tiefeng Ma, Shuangzhe Liu. Quantifying Causal Responsibility under Unobserved Confounding via a Key-Segment-Based Method. *IEEE Transactions on Neural Networks and Learning Systems*, 2026. (Under Review)
+- **Qingyang Shu**, Jianmei Ren, Mingchang Cheng\*, Tiefeng Ma. Structure-Guided Incomplete Multi-View Clustering with Independent Subspace Completion. *IEEE Transactions on Image Processing*, 2026. (Under Review)
+- **Qingyang Shu**, Jianmei Ren, Mingchang Cheng\*, Tiefeng Ma. Multi-view Positive–Unlabeled Learning with Semi-Supervised Clustering and Label Disambiguation. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026. (Under Review)
+- Yao Dong, **Qingyang Shu**\*, Mengyuan Tong. A Short-term Probabilistic Wind Power Forecasting Integrating Deep Reinforcement Learning and Multi-objective Bayesian Optimization. *International Journal of Electrical Power and Energy Systems*, 2026. (Under Review)
+- Jianmei Ren, Aihua Han\*, **Qingyang Shu**, Tiefeng Ma, Shuangzhe Liu. Quantifying Causal Responsibility under Unobserved Confounding via a Key-Segment-Based Method. *IEEE Transactions on Neural Networks and Learning Systems*, 2026. (Under Review)
 
 ## 🎓 Education {#education}
 - 2025.09 - Present: School of Statistics and Data Science, Southwestern University of Finance and Economics, M.Ec. in Applied Statistics.
