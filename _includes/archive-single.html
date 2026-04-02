@@ -77,9 +77,11 @@
           {% if post.paperurl %}
             <a href="{{ post.paperurl }}" target="_blank">📄 PDF</a>
           {% endif %}
-
+          {% if post.paperurl and post.codeurl %}
+            |
+          {% endif %}
           {% if post.codeurl %}
-            | <a href="{{ post.codeurl }}" target="_blank">💻 Code</a>
+            <a href="{{ post.codeurl }}" target="_blank">💻 Code</a>
           {% endif %}
         </p>
 
@@ -130,3 +132,4 @@
 
   </article>
 </div>
+
