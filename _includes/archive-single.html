@@ -28,33 +28,14 @@
       </div>
     {% endif %}
 
-    <!-- 标题 -->
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-          <i class="fa fa-link" aria-hidden="true"></i>
-        </a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-
-    <!-- 阅读时间（保留） -->
-    {% if post.read_time %}
-      <p class="page__meta">
-        <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
-      </p>
-    {% endif %}
-
     <!-- 🎯 核心修改：Publications 左右布局 -->
     {% if post.collection == 'publications' %}
 
-    <div style="display: flex; align-items: center; margin-top: 10px; margin-bottom: 20px;">
+    <div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 20px; gap: 20px;">
 
       <!-- 左边：图片 -->
       {% if post.image %}
-      <div style="flex: 0 0 220px; margin-right: 20px;">
+      <div style="flex: 0 0 200px;">
         <img src="{{ post.image | prepend: base_path }}" style="width: 100%; border-radius: 10px;">
       </div>
       {% endif %}
@@ -62,14 +43,23 @@
       <!-- 右边：内容 -->
       <div style="flex: 1;">
 
-        <!-- 作者 -->
+        <!-- 论文标题 -->
+        <h3 class="archive__item-title" style="margin: 0 0 10px 0;">
+          {{ title }}
+        </h3>
+
+        <!-- 作者（Qingyang Shu 加粗） -->
         <p style="margin: 5px 0;">
-          {{ post.authors }}
+          {% if post.authors contains "Qingyang Shu" %}
+            {{ post.authors | replace: "Qingyang Shu", "<strong>Qingyang Shu</strong>" }}
+          {% else %}
+            {{ post.authors }}
+          {% endif %}
         </p>
 
-        <!-- 会议 -->
+        <!-- 会议/期刊和年份 -->
         <p style="margin: 5px 0;">
-          <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}
+          <em>{{ post.venue }}</em>{% if post.year %}, {{ post.year }}{% endif %}
         </p>
 
         <!-- 按钮 -->
@@ -92,6 +82,25 @@
     {% else %}
 
     <!-- 非 publications 保持原逻辑 -->
+    <!-- 标题 -->
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+          <i class="fa fa-link" aria-hidden="true"></i>
+        </a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+
+    <!-- 阅读时间（保留） -->
+    {% if post.read_time %}
+      <p class="page__meta">
+        <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+      </p>
+    {% endif %}
+
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
@@ -132,4 +141,3 @@
 
   </article>
 </div>
-
