@@ -3,9 +3,9 @@ title: "CLASS: Deep Partial Label Feature Selection with Cluster-Guided Disambig
 collection: publications
 category: manuscripts
 permalink: /publication/2026-CLASS
+date: 2026-01-13
 authors: "Tingjin Luo*, Mengyuan Tong, Qingyang Shu, Yueying Liu, Hao Zhou, Zhen Wang"
 venue: "ACM SIGKDD"
-year: 2026
 paperurl: "/files/Class deep partial label feature selection with cluster-guided disambiguation and structured sparsity.pdf"
 codeurl: # "https://github.com/Qingyang-Shu/SJSCG"
 image: "/images/CLASS.jpg"
