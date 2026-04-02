@@ -23,14 +23,14 @@ repository               : "Qingyang-Shu/Qingyang-Shu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "照片白底.jpg"
   name             : "Qingyang Shu (舒青飏)"
   pronouns         : # example: "she/her"  
   bio              : "Southwestern University of Finance and Economics <br> Graduate student working on machine learning and data mining."
   location         : "Chengdu, Sichuan, China"
-  employer         : "Southwestern University of Finance and Economics"
+  employer         : "Southwestern University of <br> Finance and Economics"
   uri              : # URL
-  email            : "qingyang_shu@163.com <br> qyshu2003@gmail.com" 
+  email            : "qingyang_shu@163.com" 
 
   # Academic websites
   academia         : # URL
