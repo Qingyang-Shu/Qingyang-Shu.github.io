@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About me {#about-me}
-Hi there, I am Qingyang Shu (Chinese name: 舒青飏), you can call me "Quinn". I am currently a graduate student at the School of Statistics and Data Science of Southwestern University of Finance and Economics, under the supervision of [Prof. Tiefeng Ma](https://stat.swufe.edu.cn/info/2041/13971.htm). I have obtained a Bachelor of Science degree in Applied Statistics from Jiangxi University of Finance and Economics.
+Hi there, I am Qingyang Shu (Chinese name: 舒青飏), you can call me "Allen". I am currently a graduate student at the School of Statistics and Data Science of Southwestern University of Finance and Economics, under the supervision of [Prof. Tiefeng Ma](https://stat.swufe.edu.cn/info/2041/13971.htm). I have obtained a Bachelor of Science degree in Applied Statistics from Jiangxi University of Finance and Economics.
 
 My research interests focus on **machine learning** and **data mining**, aiming to develop efficient and reliable algorithms for addressing complex real-world problems. Specifically, my interests include:
 - Handling incomplete or imbalanced multi-view clustering
@@ -24,11 +24,12 @@ My research interests focus on **machine learning** and **data mining**, aiming 
 {% include archive.html collection='publications' show_title=false %}
 
 ## 🔍 Manuscript {#manuscripts}
-- **Qingyang Shu**, Jianmei Ren, Aihua Han\*, Mingchang Cheng, Ling Zhou, Tiefeng Ma. Can Recidivism Risk Among Parolees Be Reliably Identified? — An Empirical Study Using Large Language Models and Positive-Unlabeled Learning. *Journal of Criminal Justice*, 2026. (Under Review)
-- **Qingyang Shu**, Jianmei Ren, Mingchang Cheng\*, Tiefeng Ma. Structure-Guided Incomplete Multi-View Clustering through Consistency–Complementarity Coordination. 2026. (Manuscript in preparation)
-- **Qingyang Shu**, Jianmei Ren, Mingchang Cheng\*, Tiefeng Ma. Multi-view Positive–Unlabeled Learning with Semi-Supervised Clustering and Label Disambiguation. 2026. (Manuscript in preparation)
+- **Qingyang Shu**, Jianmei Ren\*, Mengyuan Tong, Mingchang Cheng, Tiefeng Ma. Multi-view Positive–Unlabeled Learning with Semi-Supervised Clustering and Label Disambiguation. *AAAI*, 2026. (Under Review)
+- **Qingyang Shu**, Jianmei Ren, Mingchang Cheng\*, Tiefeng Ma. Structure-Guided Incomplete Multi-View Clustering through Consistency–Complementarity Coordination. *IEEE Transactions on Multimedia*, 2026. (Under Review)
+- **Qingyang Shu**, Jianmei Ren, Aihua Han, Mingchang Cheng, Ling Zhou\*, Tiefeng Ma. Can Recidivism Risk Among Parolees Be Reliably Identified? — An Empirical Study Using Large Language Models and Positive-Unlabeled Learning. *Journal of Interpersonal Violence*, 2026. (Under Review)
 - Yao Dong, **Qingyang Shu**\*, Mengyuan Tong. A Short-term Probabilistic Wind Power Forecasting Integrating Deep Reinforcement Learning and Multi-objective Bayesian Optimization. *International Journal of Electrical Power and Energy Systems*, 2026. (Under Review)
-- Jianmei Ren, **Qingyang Shu**, Mingchang Cheng, Tiefeng Ma\*. A Hierarchical Scale-Aware Method for Interpretable Signal Segmentation. *Neurocomputing*, 2026. (Under Review)
+- Mengyuan Tong, **Qingyang Shu**, Tingjin Luo\*. DCR: Dual-Correction Confidence Refinement for Coupled Instance-Dependent Long-Tailed Partial-Label Learning. *AAAI*, 2026. (Under Review)
+- Jianmei Ren, **Qingyang Shu**, Mingchang Cheng, Tiefeng Ma\*. A Hierarchical Scale-Aware Method for Interpretable Signal Segmentation. *Computers & Industrial Engineering*, 2026. (Under Review)
 - Jianmei Ren, Aihua Han\*, **Qingyang Shu**, Tiefeng Ma, Shuangzhe Liu. Quantifying Causal Responsibility under Unobserved Confounding via a Key-Segment-Based Method. *IEEE Transactions on Neural Networks and Learning Systems*, 2026. (Under Review)
 
 ## 🎓 Education {#education}
