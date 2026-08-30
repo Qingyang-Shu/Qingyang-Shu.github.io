@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About me {#about-me}
-Hi there, I am Qingyang Shu (Chinese name: 舒青飏), you can call me "Allen". I am currently a graduate student at the School of Statistics and Data Science of Southwestern University of Finance and Economics, under the supervision of [Prof. Tiefeng Ma](https://stat.swufe.edu.cn/info/2041/13971.htm). I have obtained a Bachelor of Science degree in Applied Statistics from Jiangxi University of Finance and Economics, under the supervision of [Prof. YaoDong](https://stat.jxufe.edu.cn/news-show-3064.html) and [Prof. QingLiu](https://stat.jxufe.edu.cn/news-show-3040.html).
+Hi there, I am Qingyang Shu (Chinese name: 舒青飏), you can call me "Allen". I am currently a graduate student at the School of Statistics and Data Science of Southwestern University of Finance and Economics, under the supervision of [Prof. Tiefeng Ma](https://stat.swufe.edu.cn/info/2041/13971.htm). I have obtained a Bachelor of Science degree in Applied Statistics from Jiangxi University of Finance and Economics, under the supervision of [Prof. Yao Dong](https://stat.jxufe.edu.cn/news-show-3064.html) and [Prof. Qing Liu](https://stat.jxufe.edu.cn/news-show-3040.html).
 
 My research interests focus on **machine learning** and **data mining**, aiming to develop efficient and reliable algorithms for addressing complex real-world problems. Specifically, my interests include:
 - Handling incomplete or imbalanced multi-view clustering
