@@ -6,7 +6,7 @@ permalink: /publication/2026-IJEPES
 date: 2026-08-28
 authors: "Yao Dong, Qingyang Shu*, Mengyuan Tong"
 venue: "International Journal of Electrical Power & Energy Systems"
-paperurl: ""
-codeurl: ""
+paperurl: "/files/A short-term probabilistic wind power forecasting integrating deep reinforcement learning and multi-....pdf"
+codeurl: "https://github.com/Qingyang-Shu/DRLMBO"
 image: "/images/IJEPES.jpg"
 ---
