@@ -25,18 +25,20 @@ My research interests focus on **machine learning** and **data mining**, aiming 
 {% include archive.html collection='publications' show_title=false %}
 
 ## 🔍 Manuscript {#manuscripts}
-- **Qingyang Shu**, Jianmei Ren\*, Mengyuan Tong, Mingchang Cheng, Tiefeng Ma. Multi-view Positive–Unlabeled Learning with Semi-Supervised Clustering and Label Disambiguation. *AAAI*, 2026. (Under Review)
+- **Qingyang Shu**, Jianmei Ren, Mengyuan Tong, Mingchang Cheng\*, Tiefeng Ma. Multi-view Positive–Unlabeled Learning with Semi-Supervised Clustering and Label Disambiguation. *IEEE Transactions on Knowledge and Data Engineering*, 2026. (Under Review)
 - **Qingyang Shu**, Jianmei Ren, Mingchang Cheng\*, Tiefeng Ma. Structure-Guided Incomplete Multi-View Clustering through Consistency–Complementarity Coordination. *IEEE Transactions on Multimedia*, 2026. (Under Review)
 - **Qingyang Shu**, Jianmei Ren, Aihua Han, Mingchang Cheng, Ling Zhou\*, Tiefeng Ma. Can Recidivism Risk Among Parolees Be Reliably Identified? — An Empirical Study Using Large Language Models and Positive-Unlabeled Learning. *Journal of Interpersonal Violence*, 2026. (Under Review)
 - Mengyuan Tong, **Qingyang Shu**, Tingjin Luo\*. DCR: Dual-Correction Confidence Refinement for Coupled Instance-Dependent Long-Tailed Partial-Label Learning. *AAAI*, 2026. (Under Review)
-- Jianmei Ren, **Qingyang Shu**, Mingchang Cheng, Tiefeng Ma\*. A Hierarchical Scale-Aware Method for Interpretable Signal Segmentation. *Computers & Industrial Engineering*, 2026. (Under Review)
-- Jianmei Ren, Aihua Han\*, **Qingyang Shu**, Tiefeng Ma, Shuangzhe Liu. Quantifying Causal Responsibility under Unobserved Confounding via a Key-Segment-Based Method. *IEEE Transactions on Neural Networks and Learning Systems*, 2026. (Under Review)
+- Jianmei Ren, **Qingyang Shu**, Mingchang Cheng, Tiefeng Ma\*. A Hierarchical Scale-Aware Method for Interpretable Signal Segmentation. (Manuscript in Preparation)
+- Jianmei Ren, Aihua Han\*, **Qingyang Shu**, Tiefeng Ma, Shuangzhe Liu. Quantifying Causal Responsibility under Unobserved Confounding via a Key-Segment-Based Method. (Manuscript in Preparation)
 
 ## 🎓 Education {#education}
 - 2025.09 - Present: School of Statistics and Data Science, Southwestern University of Finance and Economics, M.Ec. in Applied Statistics.
 - 2021.09 - 2025.06: School of Statistics and Data Science, Jiangxi University of Finance and Economics, B.Sc. in Applied Statistics.
 
 ## 🏆 Honors & Awards {#honors-awards}
+- 2026.10: 💰 National Scholarship for Postgraduate Students
+- 2026.09: 🎖 Merit Student, Southwestern University of Finance and Economics
 - 2026.03: 🎖 Outstanding Graduate Student, Southwestern University of Finance and Economics
 - 2025.06: 🎖 Outstanding Graduate from Jiangxi University of Finance and Economics
 - 2024.12: 💰 Lixin Scholarship (Top 1%)
@@ -47,4 +49,4 @@ My research interests focus on **machine learning** and **data mining**, aiming 
 - 2023.02: 🎖 H Award, HuaShu Cup Mathematical Modeling Competition
 
 ## Academic services {#academic-services}
-I am currently a reviewer for Neurocomputing.
+I am currently a reviewer for Neurocomputing, Renewable Energy.
